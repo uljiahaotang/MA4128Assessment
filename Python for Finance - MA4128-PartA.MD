@@ -82,7 +82,7 @@ In a similar vein, “algorithms and computers gone wild” also represent a pot
 [I'm an inline-style link](https://www.safaribooksonline.com/library/view/python-for-finance/9781491945360/ch01.html)
 # Some Random Code Here
 </code></pre>
-- iteam 1 ``functionname()``
+- item 1 ``functionname()``
 - item 2 ``function2name ()``
 - item 3 ``fizzbuzztest ()``
 1. This is in*italics*
